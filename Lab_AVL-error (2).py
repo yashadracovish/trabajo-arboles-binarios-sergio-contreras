@@ -157,7 +157,6 @@ while True:
     elif opcion == "4":
         print("Altura del árbol:", getHeight(avl.root))
     elif opcion == "5":
-        print("Saliendo...")
         break
     else:
         print("Opción no válida. Intente nuevamente.")
